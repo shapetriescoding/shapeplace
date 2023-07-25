@@ -1,0 +1,20 @@
+{
+  "contact": "shape. @the_pentagon on discord",
+  "templates": [
+    {
+      "name": "shape",
+      "sources": [
+        "https://i.imgur.com/Oc3ZDZr.png"
+      ],
+      "x": 2515,
+      "y": 267
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "starwars",
+      "url": "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place2_v1.json"
+    }
+  ],
+  "blacklist": []
+}
